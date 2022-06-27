@@ -1,2 +1,2 @@
 #!/bin/bash
-tail -n 1i0
+tr -d .js
